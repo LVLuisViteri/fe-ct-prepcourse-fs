@@ -53,7 +53,7 @@ function esImpar(num) {
    // De lo contrario, retorna false.
    // Tu código:
    return num % 2 === 1
-} 
+}
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
